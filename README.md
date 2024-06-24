@@ -2,4 +2,4 @@
 
 Meu nome é Ingrid Peixoto
 
-_Estou estudando na Alura
+- Estou estudando na Alura
